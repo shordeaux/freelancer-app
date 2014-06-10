@@ -1,0 +1,5 @@
+_assetic:
+    resource: .
+    type: assetic
+_app:
+    resource: /Users/shordeaux/vagrant-mysql/www/freelancer-app/www.freelancer-app.fr/app/config/routing_dev.yml
